@@ -13,3 +13,4 @@ Shell permissions exercise
 		Group: no permission at all
 		Other users: all the permissions
 9-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 753
+10-mirror_permissions - This script sets the mode of the file hello the same as olleh’s mode.
