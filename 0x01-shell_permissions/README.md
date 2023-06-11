@@ -14,3 +14,4 @@ Shell permissions exercise
 		Other users: all the permissions
 9-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 753
 10-mirror_permissions - This script sets the mode of the file hello the same as olleh’s mode.
+11-directories_permissions - This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
