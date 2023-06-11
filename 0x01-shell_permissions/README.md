@@ -12,4 +12,4 @@ Shell permissions exercise
 		Owner: no permission at all
 		Group: no permission at all
 		Other users: all the permissions
-
+9-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 7539-John_Doe - This script sets mode of "hello" to 753
