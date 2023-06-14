@@ -10,4 +10,4 @@ Tasks on 0x03. Shell, init files, variables and expansions
 6-create_local_variable - This script creates a new local variable.
 	Name: BEST
 	Value: School
-
+7-create_blobal_variable - This script creates a new global variable.
