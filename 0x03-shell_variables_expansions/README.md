@@ -14,3 +14,7 @@ Tasks on 0x03. Shell, init files, variables and expansions
 8-true_knowledge - This script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 9-divide_and_rule - This script prints the result of POWER divided by DIVIDE, followed by a new line
 10-love_exponent_breath - This script displays the result of BREATH to the power LOVE
+11-binary_to_decimal - This script that converts a number from base 2 to base 10.
+	The number in base 2 is stored in the environment variable BINARY
+	The script should display the number in base 10, followed by a new line
+
