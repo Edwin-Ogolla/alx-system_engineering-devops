@@ -6,3 +6,4 @@ Tasks on 0x03. Shell, init files, variables and expansions
 2-path - This script adds /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 3-path - This script counts the number of directories in the PATH
 4-global_variables - This script lists environment variables.
+5-local_variables - This script lists all local variables and environment variables, and functions
