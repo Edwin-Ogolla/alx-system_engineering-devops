@@ -20,4 +20,7 @@ Tasks on 0x03. Shell, init files, variables and expansions
 12-combinations - This script prints all possible combinations of two letters, except oo.
 13-print_float - This script prints a number with two decimal places, followed by a new line.
 The number will be stored in the environment variable NUM
+100-decimal_to_hexadecimal - This script converts a number from base 10 to base 16.
+	The number in base 10 is stored in the environment variable DECIMAL
+	The script should display the number in base 16, followed by a new line
 
